@@ -2,4 +2,4 @@
 
 Instructor: Jong-Kyu Park
 
-This note was written by Taegeun Jeong & Jaebeom Cho
+This note was written by Taegeun Jeong
