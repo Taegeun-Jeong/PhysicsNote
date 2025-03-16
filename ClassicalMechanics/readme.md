@@ -2,4 +2,4 @@
 
 Instructor: Yongju Baek
 
-This note was written by Taegeun Jeong, and Jaebeom Cho also gave a lot of intuition to write this note.
+This note was written by Taegeun Jeong and Jaebeom Cho
