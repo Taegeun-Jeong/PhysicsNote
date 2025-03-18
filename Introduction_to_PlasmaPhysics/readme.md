@@ -1,4 +1,4 @@
-# Introduction to Plasma Physics Course Note (SNU 2023-1)
+# Introduction to Plasma Physics Note (SNU 2023-1, Undergraduate)
 
 Instructor: Yong-Su Na
 
